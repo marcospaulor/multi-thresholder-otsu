@@ -1,1 +1,1 @@
-# multi-tresholder-otsu
+# multi-thresholder-otsu
